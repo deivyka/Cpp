@@ -1,0 +1,73 @@
+---- Compile C++ ----
+1. Be in wsl terminal
+2. Be in linuxc++ folder
+3. sudo g++ "script.cpp" -o "out"
+4. ./out
+
+
+---- Compile Python ----
+1. Be in wsl terminal
+2. Be in script folder
+3. sudo python "script.py"
+
+
+---- Markdown functions ----
+
+**** Headers ****
+# H1 (size 20)
+## H2 (size 16)
+### H3 (size 12)
+#### H4 (size 10)
+##### H5 (size 8)
+###### H6 (size 6)
+
+
+**** Emphasis ****
+Italics, with *asterisks* or _underscores_.
+Bold, with **asterisks** or __underscores__.
+Combined emphasis with **asterisks and _underscores_**.
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+
+**** Lists ****
+1. First ordered list item
+2. Another item
+
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+⋅⋅⋅ Indented paragraphs within list items with space after new line.
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+
+**** Links ****
+[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+
+**** Images ****
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+**** Code and Syntax Highlighting ****
+Inline `code` has `back-ticks around` it. Displays code boxes around.
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+**** Tables ****
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+**** Blockquotes ****
+> This is a very long line that will still be quoted properly when it wraps. Oh, you can *put* **Markdown** into a blockquote. 
