@@ -1,16 +1,26 @@
-# C++ scripts from VS_Code
+## C++ scripts from VS_Code
+---
 
-## Markdown Cheatsheet
+### How to stuff
+---- Compile C++ ----
+1. Be in wsl terminal
+2. Be in linuxc++ folder
+3. sudo g++ "script.cpp" -o "out"
+4. ./out
+
+---
+### Markdown Cheatsheet
 [Cheatsheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Updated Cheatsheet for Markdown](https://www.markdownguide.org/basic-syntax/)
 
-## Git Cheatsheet
+### Git Cheatsheet
 [GitHub Cheatsheet for Git commands](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 [Cheatsheet for Git commands](https://shortcode.dev/git-cheatsheet#add-all-files)
 
-## Manual Stuff
+---
+### Manual Stuff
 #### Create a new repo in GitHub and then sync a VSCode folder
 ```
 echo "# New Repo" >> README.md
