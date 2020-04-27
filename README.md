@@ -35,7 +35,7 @@ git pull
 
 #### Upload Changes: Add files, commit and push
 ```
-git add .
+git add -A
 git commit -m “Add comment here”
 git push
 ```
