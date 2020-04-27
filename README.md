@@ -1,6 +1,4 @@
-# Folder description
-C++ scripts from VS_Code
-
+# C++ scripts from VS_Code
 
 ## Markdown Cheatsheet
 [Cheatsheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
