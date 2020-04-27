@@ -12,7 +12,8 @@ C++ scripts from VS_Code
 
 [Cheatsheet for Git commands](https://shortcode.dev/git-cheatsheet#add-all-files)
 
-### Create a new repo in GitHub and then sync a VSCode folder
+## Manual Stuff
+#### Create a new repo in GitHub and then sync a VSCode folder
 ```
 echo "# New Repo" >> README.md
 git init
@@ -22,19 +23,19 @@ git remote add origin https://github.com/user/repo.git
 git push -u origin master             
 ```
 
-### Clone this repo
+#### Clone this repo
 ```
 git clone https://github.com/deivyka/cpp
 ```
 
-### Get updates done by other collaborators
+#### Get updates done by other collaborators
 ```
 git fetch origin              
 git status 
 git pull
 ```
 
-### Upload Changes: Add files, commit and push
+#### Upload Changes: Add files, commit and push
 ```
 git add .
 git commit -m “Add comment here”
