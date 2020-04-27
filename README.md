@@ -14,7 +14,12 @@ C++ scripts from VS_Code
 
 ### Create a new repo in a VSCode folder
 ```
+echo "# New Repo" >> README.md
 git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/user/repo.git
+git push -u origin master             
 ```
 
 ### Clone repo
