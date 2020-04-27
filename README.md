@@ -22,12 +22,12 @@ git remote add origin https://github.com/user/repo.git
 git push -u origin master             
 ```
 
-### Clone repo
+### Clone this repo
 ```
 git clone https://github.com/deivyka/cpp
 ```
 
-### Get updates done by other collaborators:
+### Get updates done by other collaborators
 ```
 git fetch origin              
 git status 
