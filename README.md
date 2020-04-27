@@ -8,6 +8,7 @@ C++ scripts from VS_Code
 [Updated Cheatsheet for Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Git Cheatsheet
+[GitHub Cheatsheet for Git commands](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 [Cheatsheet for Git commands](https://shortcode.dev/git-cheatsheet#add-all-files)
 
 ### Create a new repo in a VSCode folder
