@@ -12,7 +12,7 @@ C++ scripts from VS_Code
 
 [Cheatsheet for Git commands](https://shortcode.dev/git-cheatsheet#add-all-files)
 
-### Create a new repo in a VSCode folder
+### Create a new repo in GitHub and then sync a VSCode folder
 ```
 echo "# New Repo" >> README.md
 git init
