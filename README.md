@@ -1,12 +1,4 @@
 ## C++ scripts from VS_Code
----
-
-### How to stuff
----- Compile C++ ----
-1. Be in wsl terminal
-2. Be in linuxc++ folder
-3. sudo g++ "script.cpp" -o "out"
-4. ./out
 
 ---
 ### Markdown Cheatsheet
@@ -18,6 +10,14 @@
 [GitHub Cheatsheet for Git commands](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 [Cheatsheet for Git commands](https://shortcode.dev/git-cheatsheet#add-all-files)
+
+---
+### How to stuff
+---- Compile C++ ----
+1. Be in wsl terminal
+2. Be in linuxc++ folder
+3. sudo g++ "script.cpp" -o "out"
+4. ./out
 
 ---
 ### Manual Stuff
